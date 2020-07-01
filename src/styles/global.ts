@@ -10,7 +10,10 @@ export default createGlobalStyle`
 
   body {
     background: #F0F2F5 ;
-    -webkit-font-smoothing: antialiased
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    max-height: 100vh;
+    max-width: 100vw;
   }
 
   body, input, button {
