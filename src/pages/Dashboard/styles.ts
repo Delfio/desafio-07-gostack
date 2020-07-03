@@ -41,7 +41,7 @@ export const Card = styled.div`
 
   h1 {
     margin-top: 14px;
-    font-size: 36px;
+    font-size: 2.2rem;
     font-weight: normal;
     line-height: 54px;
   }
